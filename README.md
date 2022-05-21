@@ -25,7 +25,7 @@
 
 ## Deployed Site
 
-   [The correct link is coming soon. In the meantime, play this game I built.](https://celestealexmoore.github.io/Rock-Paper-Scissors/)
+   [Here is the link to the deployed application.](https://celestealexmoore.github.io/code_Refactor/)
 
 ## Contributors
 
